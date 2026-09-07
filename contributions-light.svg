@@ -1,0 +1,233 @@
+<svg width="880" height="296" viewBox="0 0 880 296" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Selected Open Source Contributions: 5 merged pull requests across 4 repositories" class="oss-card-cqzols8uz" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <title>Selected Open Source Contributions</title>
+  <desc>5 merged pull requests across 4 repositories, OSS score 130</desc>
+  <style>
+    .oss-card-cqzols8uz .bg-start { stop-color: #e8f4fc; }
+    .oss-card-cqzols8uz .bg-end { stop-color: #f0e6fa; }
+    .oss-card-cqzols8uz .card-bg { fill: #1e2130; }
+    .oss-card-cqzols8uz .card-border { stroke: #2a2f45; }
+    .oss-card-cqzols8uz .icon-bg { fill: #2d3348; }
+    .oss-card-cqzols8uz .title-text { fill: #1a1a2e; }
+    .oss-card-cqzols8uz .subtitle-text { fill: #22c55e; }
+    .oss-card-cqzols8uz .subtitle-icon { fill: #22c55e; }
+    .oss-card-cqzols8uz .card-title { fill: #ffffff; }
+    .oss-card-cqzols8uz .pr-number { fill: #60a5fa; }
+    .oss-card-cqzols8uz .card-text { fill: #a0a3b1; }
+    .oss-card-cqzols8uz .badge-bg { fill: #22c55e; }
+    .oss-card-cqzols8uz .badge-text { fill: #ffffff; }
+    .oss-card-cqzols8uz .date-icon { fill: #22c55e; }
+    .oss-card-cqzols8uz .date-text { fill: #6b7280; }
+    @keyframes fadeIn {
+      from { opacity: 1; }
+      to { opacity: 1; }
+    }
+    .oss-card-cqzols8uz .card {
+      animation: fadeIn 0.4s ease-out forwards;
+      opacity: 1;
+    }
+    .oss-card-cqzols8uz .card-0 { animation-delay: 0s; }
+    .oss-card-cqzols8uz .card-1 { animation-delay: 0.1s; }
+    .oss-card-cqzols8uz .card-2 { animation-delay: 0.2s; }
+    .oss-card-cqzols8uz .card-3 { animation-delay: 0.30000000000000004s; }
+  </style>
+  <defs>
+    <linearGradient id="bgGrad-cqzols8uz" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" class="bg-start"/>
+      <stop offset="100%" class="bg-end"/>
+    </linearGradient>
+  </defs>
+  <rect width="880" height="296" fill="url(#bgGrad-cqzols8uz)" rx="16"/>
+  <g transform="translate(18, 23)">
+    <text class="title-text" font-size="18" font-weight="700">
+      Selected Open Source Contributions
+    </text>
+    <g transform="translate(0, 26)">
+      <svg width="16" height="16" viewBox="0 0 20 20"><g class="subtitle-icon"><path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd"/></g></svg>
+      <text class="subtitle-text" x="20" y="12" font-size="12" font-weight="600">
+        5 PRs Merged · 4 Repos
+      </text>
+    </g>
+    <g transform="translate(764, 5)">
+      <rect class="badge-bg" width="80" height="24" rx="12"/>
+      <text class="badge-text" x="40" y="16" font-size="11" font-weight="800" text-anchor="middle">
+        Selected
+      </text>
+    </g>
+  </g>
+  <g transform="translate(18, 76)" class="card card-0">
+    <rect class="card-bg" width="416" height="95" rx="12"/>
+    <rect class="card-border" width="416" height="95" rx="12" fill="none" stroke-width="1"/>
+
+    <!-- Repo Icon -->
+    <g transform="translate(14, 14)">
+      <defs>
+        <clipPath id="circleView-cqzols8uz-0">
+          <circle cx="14" cy="14" r="14"/>
+        </clipPath>
+      </defs>
+      <circle class="icon-bg" cx="14" cy="14" r="14"/>
+      <image href="data:image/png;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIACgAKAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AOmuPCv2W4NzZXBCgFmjl5z9CP8AA1h6b9rmutyt5kEqn5WblT7f4V1/ifU5bazW1tIN1zOCo3HG0evFeSaXretafr8cflPco4DsBFtCrnGAfUdMVVd0oaRVjPDOc1du56pZ+HnmQnz1WQ8kYyBWXrllfW4+zwDKFhmVT27/AErrNMWSGN/MbnGOtcT478QXHh62BMBZZjjzDnauPXHOTWSibt2LWl2FvFAkrRL5p71pbY/7q/lXJ6BrdxIUgvU2O/KNyQ3+HHauj84etaKxLEtfE1rrcqanAjrDxEFkxuBznnBPqK3mhs9hm+yxCQ8l9gzXl3w6vUn0eazcRs0T7/kHH8h6V6IL5JY0ImjyOgHGKc/elcmC5VZDYNWilLFJFKg8YNTeRY63I1veQxzoBnDf5+lcnrtklpdi+sI4opLhgkuw/eOeOPzro9Kjg061IVVE8x3TSb85NZLmudc1T9mrGPrHhu3sr+E2ksmwSb9pJOOecnNO8g/3zWxeypNDJNj5sBevvWP5n0/OtErHKzkvD3hrUdOma9iDMQrSSIihVGecc9vYVs3l1dwBTuIV1DDnI5ro9O/5B91/1zH/AKCK5vVP+PS1/wCuS/yrPVRuWt7FRJJ7oKJJTu3AjHatq1iuncCQZ7A4rFsvvrXW2n3kojJsbDVoJLewicH5d3zAdqxPP/2jXTa7/wAgZvqP51yFarYzZ//Z" x="0" y="0" width="28" height="28" clip-path="url(#circleView-cqzols8uz-0)"/>
+    </g>
+
+    <!-- Repo Name & PR Number -->
+    <text class="card-title" x="50" y="22" font-size="12" font-weight="600">
+      DayuanJiang/next-ai-draw-io
+    </text>
+    <text class="pr-number" x="50" y="38" font-size="11" font-weight="500">
+      #154 · ★ 35,675
+    </text>
+
+    <!-- PR Title -->
+    <text class="card-text" x="50" y="52" font-size="10">
+      feat: Show detailed error messages instead of generic &apos;Internal ...
+    </text>
+
+    <!-- Contribution Type Badge -->
+    <g transform="translate(14, 70)">
+      <rect class="badge-bg" width="65" height="18" rx="4"/>
+      <text class="badge-text" x="32.5" y="13" font-size="9" font-weight="700" text-anchor="middle">
+        Merged
+      </text>
+    </g>
+
+    <!-- Date -->
+    <g transform="translate(85, 70)">
+      <svg width="12" height="12" viewBox="0 0 20 20"><g class="date-icon"><path fill-rule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clip-rule="evenodd"/></g></svg>
+      <text class="date-text" x="16" y="10" font-size="9">
+        Dec 8, 2025
+      </text>
+    </g>
+  </g>
+  <g transform="translate(446, 76)" class="card card-1">
+    <rect class="card-bg" width="416" height="95" rx="12"/>
+    <rect class="card-border" width="416" height="95" rx="12" fill="none" stroke-width="1"/>
+
+    <!-- Repo Icon -->
+    <g transform="translate(14, 14)">
+      <defs>
+        <clipPath id="circleView-cqzols8uz-1">
+          <circle cx="14" cy="14" r="14"/>
+        </clipPath>
+      </defs>
+      <circle class="icon-bg" cx="14" cy="14" r="14"/>
+      <image href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAIAAAADnC86AAADAklEQVR4nOyWbUhzZRjHr/ucM3Z2PJPhzmyphM4XbJEbuSDCjPwQBCX2KpVrzWGsISVUUn0Iv0V7Cc23YagTiyLbhzD7IEEm9GlJ6kfBwlpOtz3OzWdnr+ech72wxwdlKAz88Jz/p2vXfe3+net/Ls59EyRBwE0IuxGqCBbBIlgEi2ARXE6VORNxBM8+QqmrJYDKlfE8/PVfctefqhj48xeZXj19lUpeEGzfBjf2Ejmrv3A4VrzeFa/XPTfXpNFcl1olRS/oqty/R3b8yUsLbrEw6j0uxBhC/QZ58R13P929s7391cQERVF2hwMA3rFaAaC5pfmlV14u/KG3r6/TYCjt9WhHx6v9/YVYgiOE0MYe649kD6NchhMA4CTOZXkhwwnRBBdPww9bZ8mMcHzG5R8Uuztc9Q0ND2u1Sobx+XwAMDE5CQCPdXZ+NDoKAAzDLHo8U7MzJbDd6ZxfWGhpbT3f2czm6eDSockTAIAnnf//HcpsHSQHlwKFVZMn8PzUv/N/RIutl8B6vZ5hmMbGxotevTkwsLq6Wquq7XqqCwBa29p0Ot03y8vv2mzny94wyJfNdX8eXG7410b1+GsPfueL3QNeWly0Wa0fjIyYLZZChqIokpQlEgkAMFssMpIMh8PD770PAG+bzcFgsIqmjSaTXC4vba2gcAxBOssD5KZbECCREUqrOAbSc6NcDO0u12djYw+o1e6ZnJ+/rq//trmpUqlmp6ef6emRyWS/rK1JSdLudGq12gGj8UuX6zQSaW9vtwwNedzjF/vT1eOf/hSmJMWfUgINfx/6J5R8/fHqQgaRBKFQKIj8JZfNK5dFqEmjYdn4UeCIoiiCIGKxnEU1SmU6lSLz3QMATdMIw1JszPfJQ6msIJVgEhwicV5J41le8Eey9QqCTfO0FI8mOFKCTlm+TkH8vHv7wx/DqCL36reekH/8XA2Gyn4+8jqJc8aFo/1QpjJgAKiV43UKSfkajhf2Q2k2LRStrgj4urr/TicRLIJFsAgWwVfWnQAAAP///KwJnWCmnsAAAAAASUVORK5CYII=" x="0" y="0" width="28" height="28" clip-path="url(#circleView-cqzols8uz-1)"/>
+    </g>
+
+    <!-- Repo Name & PR Number -->
+    <text class="card-title" x="50" y="22" font-size="12" font-weight="600">
+      buaahub/awesome-buaa
+    </text>
+    <text class="pr-number" x="50" y="38" font-size="11" font-weight="500">
+      #25 · ★ 430
+    </text>
+
+    <!-- PR Title -->
+    <text class="card-text" x="50" y="52" font-size="10">
+      add duaa to readme.md
+    </text>
+
+    <!-- Contribution Type Badge -->
+    <g transform="translate(14, 70)">
+      <rect class="badge-bg" width="65" height="18" rx="4"/>
+      <text class="badge-text" x="32.5" y="13" font-size="9" font-weight="700" text-anchor="middle">
+        Merged
+      </text>
+    </g>
+
+    <!-- Date -->
+    <g transform="translate(85, 70)">
+      <svg width="12" height="12" viewBox="0 0 20 20"><g class="date-icon"><path fill-rule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clip-rule="evenodd"/></g></svg>
+      <text class="date-text" x="16" y="10" font-size="9">
+        Apr 21, 2026
+      </text>
+    </g>
+  </g>
+  <g transform="translate(18, 183)" class="card card-2">
+    <rect class="card-bg" width="416" height="95" rx="12"/>
+    <rect class="card-border" width="416" height="95" rx="12" fill="none" stroke-width="1"/>
+
+    <!-- Repo Icon -->
+    <g transform="translate(14, 14)">
+      <defs>
+        <clipPath id="circleView-cqzols8uz-2">
+          <circle cx="14" cy="14" r="14"/>
+        </clipPath>
+      </defs>
+      <circle class="icon-bg" cx="14" cy="14" r="14"/>
+      <image href="data:image/png;base64,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" x="0" y="0" width="28" height="28" clip-path="url(#circleView-cqzols8uz-2)"/>
+    </g>
+
+    <!-- Repo Name & PR Number -->
+    <text class="card-title" x="50" y="22" font-size="12" font-weight="600">
+      yzr278892/arxiv-daily-researcher
+    </text>
+    <text class="pr-number" x="50" y="38" font-size="11" font-weight="500">
+      #5 · ★ 320
+    </text>
+
+    <!-- PR Title -->
+    <text class="card-text" x="50" y="52" font-size="10">
+      Feature/daily deep analysis config
+    </text>
+
+    <!-- Contribution Type Badge -->
+    <g transform="translate(14, 70)">
+      <rect class="badge-bg" width="65" height="18" rx="4"/>
+      <text class="badge-text" x="32.5" y="13" font-size="9" font-weight="700" text-anchor="middle">
+        Merged
+      </text>
+    </g>
+
+    <!-- Date -->
+    <g transform="translate(85, 70)">
+      <svg width="12" height="12" viewBox="0 0 20 20"><g class="date-icon"><path fill-rule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clip-rule="evenodd"/></g></svg>
+      <text class="date-text" x="16" y="10" font-size="9">
+        Apr 26, 2026
+      </text>
+    </g>
+  </g>
+  <g transform="translate(446, 183)" class="card card-3">
+    <rect class="card-bg" width="416" height="95" rx="12"/>
+    <rect class="card-border" width="416" height="95" rx="12" fill="none" stroke-width="1"/>
+
+    <!-- Repo Icon -->
+    <g transform="translate(14, 14)">
+      <defs>
+        <clipPath id="circleView-cqzols8uz-3">
+          <circle cx="14" cy="14" r="14"/>
+        </clipPath>
+      </defs>
+      <circle class="icon-bg" cx="14" cy="14" r="14"/>
+      <image href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAaQAAAGkCAIAAADxLsZiAAAF7ElEQVR4nOzXUY3bQBhG0aYKAiMyFSMzFSOyBkLfFkF2Ju49h8D/Sbu6Gb/HGH8A/nd/Vw8AmEHsgASxAxLEDkgQOyBB7IAEsQMSxA5IEDsgQeyABLEDEsQOSBA7IEHsgASxAxLEDkgQOyBB7IAEsQMSxA5IEDsgQeyABLEDEsQOSBA7IEHsgASxAxLEDkgQOyBB7IAEsQMSxA5IEDsgQeyAhPfqAXyR+zpXT/i8bT9WT+AreNkBCWIHJIgdkCB2QILYAQliBySIHZAgdkCC2AEJYgckiB2QIHZAgtgBCWIHJIgdkCB2QILYAQliBySIHZAgdkCC2AEJYgckiB2QIHZAgtgBCWIHJIgdkCB2QILYAQliBySIHZAgdkCC2AEJYgckiB2QIHZAgtgBCWIHJIgdkCB2QILYAQliBySIHZAgdkCC2AEJYgckiB2QIHZAgtgBCWIHJIgdkCB2QILYAQliBySIHZAgdkCC2AEJYgckiB2QIHZAgtgBCWIHJIgdkCB2QILYAQliBySIHZAgdkCC2AEJrzHGnEv3dc45BDzLth8Trrwn3OBB5vzbTeMnlh8+Y4EEsQMSxA5IEDsgQeyABLEDEsQOSBA7IEHsgASxAxLEDkgQOyBB7IAEsQMSxA5IEDsgQeyABLEDEsQOSBA7IEHsgASxAxLEDkgQOyBB7IAEsQMSxA5IEDsgQeyABLEDEsQOSBA7IEHsgASxAxLEDkgQOyBB7IAEsQMSxA5IEDsgQeyABLEDEsQOSBA7IEHsgASxAxLEDkgQOyBB7IAEsQMSxA5IEDsgQeyABLEDEsQOSBA7IEHsgASxAxLEDkgQOyBB7IAEsQMSxA5IEDsgQeyABLEDEsQOSBA7IOG9egDf5b7O1RPgV7zGGKs3PJUusMS2H6snPJLPWCBB7IAEsQMSxA5IEDsgQeyABLEDEsQOSBA7IEHsgASxAxLEDkgQOyBB7IAEsQMSxA5IEDsgQeyABLEDEsQOSBA7IEHsgASxAxLEDkgQOyBB7IAEsQMSxA5IEDsgQeyABLEDEsQOSBA7IEHsgASxAxLEDkgQOyBB7IAEsQMSxA5IEDsgQeyABLEDEsQOSBA7IEHsgASxAxLEDkgQOyBB7IAEsQMSxA5IEDsgQeyABLEDEsQOSBA7IEHsgASxAxLEDkgQOyBB7IAEsQMSxA5IEDsgQeyABLEDEsQOSHiNMeZcuq9zziHgWbb9mHDFyw5IEDsgQeyABLEDEsQOSBA7IEHsgASxAxLEDkgQOyBB7IAEsQMSxA5IEDsgQeyABLEDEsQOSBA7IEHsgASxAxLEDkgQOyBB7IAEsQMSxA5IEDsgQeyABLEDEsQOSBA7IEHsgASxAxLEDkgQOyBB7IAEsQMSxA5IEDsgQeyABLEDEsQOSBA7IEHsgASxAxLEDkgQOyBB7IAEsQMSxA5IEDsgQeyABLEDEsQOSBA7IEHsgASxAxLEDkgQOyBB7IAEsQMSxA5IEDsgQeyABLEDEsQOSBA7IEHsgASxAxLEDkgQOyDhNcZYveGp7utcPeHztv1YPeGT/I344WUHJIgdkCB2QILYAQliBySIHZAgdkCC2AEJYgckiB2QIHZAgtgBCWIHJIgdkCB2QILYAQliBySIHZAgdkCC2AEJYgckiB2QIHZAgtgBCWIHJIgdkCB2QILYAQliBySIHZAgdkCC2AEJYgckiB2QIHZAgtgBCWIHJIgdkCB2QILYAQliBySIHZAgdkCC2AEJYgckiB2QIHZAgtgBCWIHJIgdkCB2QILYAQliBySIHZAgdkCC2AEJYgckiB2QIHZAgtgBCWIHJIgdkCB2QILYAQliBySIHZAgdkCC2AEJYgckvMYYqzcA/DovOyBB7IAEsQMSxA5IEDsgQeyABLEDEsQOSBA7IEHsgASxAxLEDkgQOyBB7IAEsQMSxA5IEDsgQeyABLEDEsQOSBA7IEHsgASxAxLEDkgQOyBB7IAEsQMSxA5IEDsgQeyABLEDEsQOSBA7IOFfAAAA//93Yit5rqDRIAAAAABJRU5ErkJggg==" x="0" y="0" width="28" height="28" clip-path="url(#circleView-cqzols8uz-3)"/>
+    </g>
+
+    <!-- Repo Name & PR Number -->
+    <text class="card-title" x="50" y="22" font-size="12" font-weight="600">
+      yzr278892/arxiv-daily-researcher
+    </text>
+    <text class="pr-number" x="50" y="38" font-size="11" font-weight="500">
+      #4 · ★ 320
+    </text>
+
+    <!-- PR Title -->
+    <text class="card-text" x="50" y="52" font-size="10">
+      Fix/telegram notifier html
+    </text>
+
+    <!-- Contribution Type Badge -->
+    <g transform="translate(14, 70)">
+      <rect class="badge-bg" width="65" height="18" rx="4"/>
+      <text class="badge-text" x="32.5" y="13" font-size="9" font-weight="700" text-anchor="middle">
+        Merged
+      </text>
+    </g>
+
+    <!-- Date -->
+    <g transform="translate(85, 70)">
+      <svg width="12" height="12" viewBox="0 0 20 20"><g class="date-icon"><path fill-rule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clip-rule="evenodd"/></g></svg>
+      <text class="date-text" x="16" y="10" font-size="9">
+        Apr 26, 2026
+      </text>
+    </g>
+  </g>
+</svg>
