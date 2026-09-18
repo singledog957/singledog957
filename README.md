@@ -1,5 +1,9 @@
 # Hi, I'm singledog957 👋
 
+I'm a master's student exploring **AI systems, computer architecture, and hardware acceleration**.
+
+I enjoy turning research ideas into **working systems and open-source projects**.
+
 ## Open Source Contributions
 
 <picture>
